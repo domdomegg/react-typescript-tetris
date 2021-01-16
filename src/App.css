@@ -1,0 +1,31 @@
+body {
+  background-color: #111;
+  color: white;
+}
+
+.App {
+  text-align: center;
+}
+
+.board {
+  display: inline-table;         
+  width: auto;         
+  background-color: #111;
+  padding: 0 20px 20px 20px;
+}
+
+.row {
+  display: table-row;
+  width: auto;
+  clear: both;
+}
+
+.square {
+  float: left;
+  display: table-column;
+  width: 35px;
+  height: 35px;
+  border-radius: 2px;
+  margin: 2px;
+  background-color: #222;
+}
