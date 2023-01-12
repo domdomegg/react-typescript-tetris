@@ -1,4 +1,4 @@
-# react-typescript-tetris [(try live)](https://domdomegg.github.io/react-typescript-tetris/)
+# react-typescript-tetris [(try live)](https://adamjones.me/react-typescript-tetris/)
 
 A slightly messy implementation of Tetris in TypeScript and React hacked together in a few hours.
 
