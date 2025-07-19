@@ -1,5 +1,5 @@
 # react-typescript-tetris [(try live)](https://adamjones.me/react-typescript-tetris/)
 
-A slightly messy implementation of Tetris in TypeScript and React hacked together in a few hours.
+![Screenshot of gameplay](./branding/screenshot.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A slightly messy implementation of Tetris in TypeScript and React hacked together in a few hours.
